@@ -1,0 +1,36 @@
+.gitignore
+  bcfe30cbd041e8d9 25-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "d3633b483ac9ab5513c917bc390d7b3e6bb54389",
+  "prompts": {
+    "a0576cb98b09988a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1a7e9f44-9134-47f3-832d-fb9ff886914c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 55,
+      "total_deletions": 0,
+      "accepted_lines": 55,
+      "overriden_lines": 0
+    },
+    "bcfe30cbd041e8d9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76a53a8d-2667-4a92-b984-c2200651202c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 27,
+      "total_deletions": 24,
+      "accepted_lines": 27,
+      "overriden_lines": 0
+    }
+  }
+}
