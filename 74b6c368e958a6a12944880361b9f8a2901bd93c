@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "74b6c368e958a6a12944880361b9f8a2901bd93c",
+  "prompts": {
+    "b78c3df04e89f08d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "307f4620-46e1-48af-97ac-09da7c06d6ca",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 8,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
