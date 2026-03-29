@@ -1,0 +1,23 @@
+AGENTS.md
+  ad757c81db43f8d4 13-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "31bca6e754732412eeaa627209bb56b00566c00c",
+  "prompts": {
+    "ad757c81db43f8d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40c1c8f9-00e4-42a2-b75a-7d28479b8328",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 12,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  }
+}
