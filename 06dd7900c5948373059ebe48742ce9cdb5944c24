@@ -1,0 +1,23 @@
+wireframes/notifications.html
+  36d4aaf036e16eb3 201,205-206,220,245,281,293
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "06dd7900c5948373059ebe48742ce9cdb5944c24",
+  "prompts": {
+    "36d4aaf036e16eb3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a426a0a-ab95-43bd-b864-96ef9096d9c9",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 5,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
