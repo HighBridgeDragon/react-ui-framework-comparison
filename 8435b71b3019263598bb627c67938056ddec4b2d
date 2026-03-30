@@ -1,0 +1,23 @@
+wireframes/index.html
+  36d4aaf036e16eb3 1-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "8435b71b3019263598bb627c67938056ddec4b2d",
+  "prompts": {
+    "36d4aaf036e16eb3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a426a0a-ab95-43bd-b864-96ef9096d9c9",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 140,
+      "total_deletions": 0,
+      "accepted_lines": 140,
+      "overriden_lines": 0
+    }
+  }
+}
