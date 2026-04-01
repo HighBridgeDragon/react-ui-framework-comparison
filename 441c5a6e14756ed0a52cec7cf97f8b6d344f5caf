@@ -1,0 +1,36 @@
+biome.json
+  eb3f2243d66406d9 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "441c5a6e14756ed0a52cec7cf97f8b6d344f5caf",
+  "prompts": {
+    "6072cbffedf2a06e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc656380-1d87-4e77-9f46-fd78c8866e2d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 128,
+      "total_deletions": 3,
+      "accepted_lines": 128,
+      "overriden_lines": 0
+    },
+    "eb3f2243d66406d9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "534d700a-eccd-46f4-9ce6-6ab2ec06089a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
