@@ -1,0 +1,23 @@
+src/comparison/chakra/ChakraProviderWrapper.tsx
+  6072cbffedf2a06e 1-4,7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "3b002e04e3f5436d1663070c337923feb223854d",
+  "prompts": {
+    "6072cbffedf2a06e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc656380-1d87-4e77-9f46-fd78c8866e2d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 23,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
