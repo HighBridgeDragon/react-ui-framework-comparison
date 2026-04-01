@@ -1,0 +1,47 @@
+src/comparison/shadcn/DatePickerDemo.tsx
+  6072cbffedf2a06e 1-2,5-6,18
+src/comparison/shadcn/TableDemo.tsx
+  6072cbffedf2a06e 10,14-15,53
+src/comparison/shadcn/ShadcnScope.tsx
+  6072cbffedf2a06e 1-5,7-9
+src/comparison/shadcn/CardDemo.tsx
+  6072cbffedf2a06e 10,14-15,34
+src/comparison/shadcn/TabsDemo.tsx
+  6072cbffedf2a06e 3,7-8,46
+src/comparison/mui/MuiProvider.tsx
+  6072cbffedf2a06e 1,11-15
+src/comparison/shadcn/shadcn-overrides.css
+  6072cbffedf2a06e 1-87
+postcss.config.js
+  6072cbffedf2a06e 1-5
+biome.json
+  6072cbffedf2a06e 14-19
+src/comparison/shadcn/ButtonDemo.tsx
+  6072cbffedf2a06e 2,6-7,36
+src/tailwind.css
+  6072cbffedf2a06e 2-41
+src/comparison/shadcn/InputDemo.tsx
+  6072cbffedf2a06e 2,6-7,39
+src/comparison/shadcn/DialogDemo.tsx
+  6072cbffedf2a06e 11,15-16,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "939f5cbc3e9035fe05e2019130b4a168970be384",
+  "prompts": {
+    "6072cbffedf2a06e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc656380-1d87-4e77-9f46-fd78c8866e2d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 359,
+      "total_deletions": 189,
+      "accepted_lines": 188,
+      "overriden_lines": 1
+    }
+  }
+}
