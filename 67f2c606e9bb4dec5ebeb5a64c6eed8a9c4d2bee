@@ -1,0 +1,23 @@
+.storybook/main.ts
+  6072cbffedf2a06e 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "67f2c606e9bb4dec5ebeb5a64c6eed8a9c4d2bee",
+  "prompts": {
+    "6072cbffedf2a06e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc656380-1d87-4e77-9f46-fd78c8866e2d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 14,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
