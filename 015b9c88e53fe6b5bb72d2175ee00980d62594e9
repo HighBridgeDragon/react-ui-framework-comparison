@@ -1,0 +1,39 @@
+src/comparison/shadcn/DialogDemo.tsx
+  6072cbffedf2a06e 15-16,18-35
+src/comparison/shadcn/CardDemo.tsx
+  6072cbffedf2a06e 14-15,17-31
+src/comparison/shadcn/ShadcnScope.tsx
+  6072cbffedf2a06e 5,8
+src/comparison/shadcn/TableDemo.tsx
+  6072cbffedf2a06e 9,14-15,17-38,40-42
+src/comparison/shadcn/DatePickerDemo.tsx
+  6072cbffedf2a06e 5-6,8-14
+src/comparison/shadcn/ButtonDemo.tsx
+  6072cbffedf2a06e 6-7,9-14,16,18-23,25,27-31
+src/comparison/shadcn/InputDemo.tsx
+  6072cbffedf2a06e 6-7,9-14,16-21,23-29,31-35
+src/comparison/shadcn/TabsDemo.tsx
+  6072cbffedf2a06e 6,10-21,34,37,40
+src/comparison/shadcn/shadcn-overrides.css
+  6072cbffedf2a06e 1-7,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "015b9c88e53fe6b5bb72d2175ee00980d62594e9",
+  "prompts": {
+    "6072cbffedf2a06e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc656380-1d87-4e77-9f46-fd78c8866e2d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 188,
+      "total_deletions": 227,
+      "accepted_lines": 165,
+      "overriden_lines": 0
+    }
+  }
+}
