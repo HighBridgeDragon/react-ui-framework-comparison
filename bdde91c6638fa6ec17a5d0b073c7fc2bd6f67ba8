@@ -1,0 +1,181 @@
+stories/comparison/radix/InputDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/radix/InputDemo.tsx
+  ec88b147a9e95a56 9,15,17,22,29,33,39
+stories/comparison/shadcn/DatePicker.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/SideBySide.tsx
+  ec88b147a9e95a56 36,50
+src/comparison/mantine/ButtonDemo.tsx
+  ec88b147a9e95a56 10,13,15,21,24-26,32,35-36
+stories/comparison/mui/DatePicker.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mantine/DialogDemo.tsx
+  ec88b147a9e95a56 13,20,23,30
+stories/comparison/mantine/CardDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/antd/DialogDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/sampleData.ts
+  ec88b147a9e95a56 7,13,17,37,41,45-46,49,55,62,64,66
+stories/comparison/chakra/TableDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mantine/TabsDemo.tsx
+  ec88b147a9e95a56 30-32
+stories/comparison/mantine/InputDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mui/TabsDemo.tsx
+  ec88b147a9e95a56 57-59
+stories/comparison/SideBySide.stories.tsx
+  ec88b147a9e95a56 6
+stories/comparison/radix/CardDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/antd/CardDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/shadcn/Input.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/shadcn/ButtonDemo.tsx
+  ec88b147a9e95a56 7,10,12-14,19,21-23,28,30-31
+src/comparison/mui/DialogDemo.tsx
+  ec88b147a9e95a56 19,23,27,30,34,40
+src/comparison/shadcn/CardDemo.tsx
+  ec88b147a9e95a56 15,19,21,25,28-29
+src/comparison/mantine/InputDemo.tsx
+  ec88b147a9e95a56 8-11
+stories/comparison/mui/Input.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mantine/TabsDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/antd/ButtonDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mui/ButtonDemo.tsx
+  ec88b147a9e95a56 13,17,20-22,41,45,52
+src/comparison/antd/DialogDemo.tsx
+  ec88b147a9e95a56 11,14,18,20,22
+src/comparison/mui/CardDemo.tsx
+  ec88b147a9e95a56 15,20-21,25,30,33
+src/comparison/radix/TabsDemo.tsx
+  ec88b147a9e95a56 10,15-17
+stories/comparison/mui/Card.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/antd/TabsDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/shadcn/InputDemo.tsx
+  ec88b147a9e95a56 7,11,13,18,25,28,33
+stories/comparison/chakra/ButtonDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/antd/InputDemo.tsx
+  ec88b147a9e95a56 11-12,15-16,19-20,22,26
+stories/comparison/shadcn/Tabs.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/antd/TableDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mantine/DatePickerDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/radix/TableDemo.tsx
+  ec88b147a9e95a56 10,16-20
+stories/comparison/antd/InputDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mantine/DialogDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/shadcn/Dialog.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/shadcn/Table.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mui/Table.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/chakra/DialogDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/antd/DatePickerDemo.tsx
+  ec88b147a9e95a56 8-11
+stories/comparison/chakra/CardDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mui/Button.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mui/Dialog.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/radix/ButtonDemo.tsx
+  ec88b147a9e95a56 9,13,25-27,31,34-35
+src/comparison/mui/DatePickerDemo.tsx
+  ec88b147a9e95a56 19,24,30,36-37
+stories/comparison/radix/DatePickerDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mantine/DatePickerDemo.tsx
+  ec88b147a9e95a56 14,22,29,31-32
+src/comparison/antd/CardDemo.tsx
+  ec88b147a9e95a56 8,12,15,19-20
+src/comparison/antd/TabsDemo.tsx
+  ec88b147a9e95a56 25,30,35
+src/comparison/radix/CardDemo.tsx
+  ec88b147a9e95a56 9,14,17,20,24,27
+src/comparison/mantine/CardDemo.tsx
+  ec88b147a9e95a56 10,14,18,22-23
+src/comparison/radix/DialogDemo.tsx
+  ec88b147a9e95a56 9,14,17,19,24,29
+stories/comparison/shadcn/Card.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mui/TableDemo.tsx
+  ec88b147a9e95a56 20-22,26-30,61
+src/comparison/shadcn/TabsDemo.tsx
+  ec88b147a9e95a56 25,29-31
+stories/comparison/chakra/InputDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mantine/TableDemo.tsx
+  ec88b147a9e95a56 25-29
+stories/comparison/mantine/ButtonDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/mantine/TableDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/chakra/DatePickerDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/shadcn/DialogDemo.tsx
+  ec88b147a9e95a56 16,20,24,26,30-31
+stories/comparison/shadcn/Button.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/radix/TableDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/mui/InputDemo.tsx
+  ec88b147a9e95a56 12,16,18,21,23,26
+stories/comparison/mui/Tabs.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/radix/TabsDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/radix/DialogDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/radix/ButtonDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/antd/DatePickerDemo.stories.tsx
+  ec88b147a9e95a56 5
+stories/comparison/chakra/TabsDemo.stories.tsx
+  ec88b147a9e95a56 5
+src/comparison/chakra/DatePickerDemo.tsx
+  ec88b147a9e95a56 8
+src/comparison/antd/ButtonDemo.tsx
+  ec88b147a9e95a56 9-11,16,19,22,27,29
+src/comparison/radix/DatePickerDemo.tsx
+  ec88b147a9e95a56 9
+src/comparison/antd/TableDemo.tsx
+  ec88b147a9e95a56 8,14,20,25,36
+src/comparison/shadcn/DatePickerDemo.tsx
+  ec88b147a9e95a56 6,11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "bdde91c6638fa6ec17a5d0b073c7fc2bd6f67ba8",
+  "prompts": {
+    "ec88b147a9e95a56": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57cf013b-dcc4-4498-a304-f68d69893089",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 259,
+      "total_deletions": 264,
+      "accepted_lines": 252,
+      "overriden_lines": 2
+    }
+  }
+}
