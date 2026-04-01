@@ -1,0 +1,87 @@
+src/comparison/mui/IconDemo.tsx
+  c4baf619c1d56b09 73
+src/comparison/chakra/InputDemo.tsx
+  c4baf619c1d56b09 14
+src/comparison/mui/DatePickerDemo.tsx
+  c4baf619c1d56b09 39
+src/comparison/chakra/DialogDemo.tsx
+  c4baf619c1d56b09 24
+src/comparison/mui/TableDemo.tsx
+  c4baf619c1d56b09 99
+src/comparison/radix/InputDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/radix/CardDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/shadcn/TabsDemo.tsx
+  c4baf619c1d56b09 24
+src/comparison/mui/DialogDemo.tsx
+  c4baf619c1d56b09 43
+src/comparison/shadcn/ButtonDemo.tsx
+  c4baf619c1d56b09 6
+src/comparison/mui/InputDemo.tsx
+  c4baf619c1d56b09 27
+src/comparison/shadcn/TableDemo.tsx
+  c4baf619c1d56b09 14
+src/comparison/chakra/TableDemo.tsx
+  c4baf619c1d56b09 18
+src/comparison/shadcn/IconDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/mui/ButtonDemo.tsx
+  c4baf619c1d56b09 54
+src/comparison/mui/TabsDemo.tsx
+  c4baf619c1d56b09 74
+src/comparison/shadcn/DialogDemo.tsx
+  c4baf619c1d56b09 15
+src/comparison/chakra/ButtonDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/shadcn/CardDemo.tsx
+  c4baf619c1d56b09 14
+src/comparison/chakra/TabsDemo.tsx
+  c4baf619c1d56b09 28
+src/comparison/chakra/IconDemo.tsx
+  c4baf619c1d56b09 16
+src/comparison/shadcn/InputDemo.tsx
+  c4baf619c1d56b09 6
+src/comparison/radix/ButtonDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/chakra/CardDemo.tsx
+  c4baf619c1d56b09 18
+src/comparison/radix/DialogDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/chakra/DatePickerDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/radix/TabsDemo.tsx
+  c4baf619c1d56b09 8
+src/comparison/mui/CardDemo.tsx
+  c4baf619c1d56b09 36
+src/comparison/shadcn/DatePickerDemo.tsx
+  c4baf619c1d56b09 5
+src/comparison/radix/DatePickerDemo.tsx
+  c4baf619c1d56b09 7
+src/comparison/radix/TableDemo.tsx
+  c4baf619c1d56b09 8
+src/comparison/SideBySide.tsx
+  c4baf619c1d56b09 23
+src/comparison/radix/IconDemo.tsx
+  c4baf619c1d56b09 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "9a1060f135cd34c7b915d2e6f3ae75e343db4202",
+  "prompts": {
+    "c4baf619c1d56b09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3febd6e5-ea2e-470c-bf61-d3fcdc25d872",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon <p3026042@gmail.com>",
+      "messages": [],
+      "total_additions": 40,
+      "total_deletions": 46,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
