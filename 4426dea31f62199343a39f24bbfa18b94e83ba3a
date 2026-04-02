@@ -1,0 +1,59 @@
+src/comparison/shadcn/IconDemo.tsx
+  b870672a80d42798 9,11,29,38,55
+src/comparison/radix/InputDemo.tsx
+  b870672a80d42798 1
+src/comparison/chakra/DatePickerDemo.tsx
+  b870672a80d42798 1
+src/comparison/mantine/DatePickerDemo.tsx
+  b870672a80d42798 13,26
+src/comparison/radix/DialogDemo.tsx
+  b870672a80d42798 1
+src/comparison/mantine/IconDemo.tsx
+  b870672a80d42798 24,26,50,59,72
+src/comparison/chakra/IconDemo.tsx
+  b870672a80d42798 17,19,37,46,63
+src/comparison/chakra/ButtonDemo.tsx
+  b870672a80d42798 1,9,24,39
+src/comparison/shadcn/ButtonDemo.tsx
+  b870672a80d42798 8,17,26
+src/comparison/antd/IconDemo.tsx
+  b870672a80d42798 12,19,21,47,58,75
+src/comparison/radix/TabsDemo.tsx
+  b870672a80d42798 1
+src/comparison/radix/TableDemo.tsx
+  b870672a80d42798 1
+src/comparison/radix/ButtonDemo.tsx
+  b870672a80d42798 1,8,15,22
+src/comparison/mantine/ButtonDemo.tsx
+  b870672a80d42798 1,9,18,27
+src/comparison/radix/IconDemo.tsx
+  b870672a80d42798 9,11,33,40,55
+src/comparison/mui/IconDemo.tsx
+  b870672a80d42798 17,33,40,53
+src/comparison/mui/ButtonDemo.tsx
+  b870672a80d42798 9,16,29
+src/comparison/SideBySide.tsx
+  b870672a80d42798 6-17,47
+src/comparison/radix/DatePickerDemo.tsx
+  b870672a80d42798 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "4426dea31f62199343a39f24bbfa18b94e83ba3a",
+  "prompts": {
+    "b870672a80d42798": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "330cc584-8bb3-44e5-bfc4-26205c5683d6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon",
+      "messages": [],
+      "total_additions": 488,
+      "total_deletions": 229,
+      "accepted_lines": 502,
+      "overriden_lines": 4
+    }
+  }
+}
