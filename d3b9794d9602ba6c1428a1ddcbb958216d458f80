@@ -1,0 +1,39 @@
+stories/comparison/shadcn/Typography.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Icon.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Table.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/DatePicker.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Dialog.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Card.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Button.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Input.stories.tsx
+  293abab365590685 5
+stories/comparison/shadcn/Tabs.stories.tsx
+  293abab365590685 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "d3b9794d9602ba6c1428a1ddcbb958216d458f80",
+  "prompts": {
+    "293abab365590685": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "71ad703a-ed86-4ba1-9abd-31fd9db4a05c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 9,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
