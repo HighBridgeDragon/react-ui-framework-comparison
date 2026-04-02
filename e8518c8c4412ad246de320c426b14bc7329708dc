@@ -1,0 +1,51 @@
+stories/comparison/radix/Typography.stories.tsx
+  b870672a80d42798 1-12
+src/comparison/mui/TypographyDemo.tsx
+  b870672a80d42798 1-2,4-59
+stories/comparison/mantine/Typography.stories.tsx
+  b870672a80d42798 1-12
+stories/comparison/SideBySide.stories.tsx
+  b870672a80d42798 30
+src/comparison/chakra/TypographyDemo.tsx
+  b870672a80d42798 1-52
+src/comparison/mantine/TypographyDemo.tsx
+  b870672a80d42798 1-59
+stories/comparison/chakra/Typography.stories.tsx
+  b870672a80d42798 1-12
+src/comparison/componentTypes.ts
+  b870672a80d42798 10
+src/comparison/registry.ts
+  b870672a80d42798 19,30,41,52,63,74
+src/comparison/shadcn/TypographyDemo.tsx
+  b870672a80d42798 1-72
+src/comparison/antd/TypographyDemo.tsx
+  b870672a80d42798 1-51
+stories/comparison/shadcn/Typography.stories.tsx
+  b870672a80d42798 1-12
+stories/comparison/antd/Typography.stories.tsx
+  b870672a80d42798 1-12
+stories/comparison/mui/Typography.stories.tsx
+  b870672a80d42798 1-12
+src/comparison/radix/TypographyDemo.tsx
+  b870672a80d42798 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "e8518c8c4412ad246de320c426b14bc7329708dc",
+  "prompts": {
+    "b870672a80d42798": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "330cc584-8bb3-44e5-bfc4-26205c5683d6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 432,
+      "overriden_lines": 0
+    }
+  }
+}
