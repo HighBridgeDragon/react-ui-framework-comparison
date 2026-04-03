@@ -1,0 +1,27 @@
+src/tailwind.css
+  293abab365590685 1-16
+src/comparison/mantine/MantineProviderWrapper.tsx
+  293abab365590685 3
+src/comparison/mantine/mantine-styles-layered.css
+  293abab365590685 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "848b78ce335ed4af73ae6d05134e6ab0e3ade6b5",
+  "prompts": {
+    "293abab365590685": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "71ad703a-ed86-4ba1-9abd-31fd9db4a05c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon",
+      "messages": [],
+      "total_additions": 75,
+      "total_deletions": 46,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    }
+  }
+}
