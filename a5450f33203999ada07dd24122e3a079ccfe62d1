@@ -1,0 +1,23 @@
+src/comparison/shadcn/ShadcnScope.tsx
+  293abab365590685 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "a5450f33203999ada07dd24122e3a079ccfe62d1",
+  "prompts": {
+    "293abab365590685": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "71ad703a-ed86-4ba1-9abd-31fd9db4a05c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "HighBridgeDragon",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
