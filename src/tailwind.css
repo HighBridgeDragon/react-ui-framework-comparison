@@ -1,0 +1,63 @@
+/*
+ * 全フレームワーク比較で CSS カスケードレイヤーの優先順位を制御する。
+ * 宣言順: 先に宣言 = 低優先度、後に宣言 = 高優先度。
+ *
+ *   reset < tokens               (Chakra UI リセット・トークン)
+ *   < theme < base               (Tailwind 内部)
+ *   < recipes                    (Chakra UI コンポーネント — base より上)
+ *   < mantine                    (Mantine — base より上)
+ *   < components < utilities     (Tailwind — 最高優先度)
+ *
+ * これにより:
+ * - Tailwind @layer utilities が全レイヤーに勝つ → shadcn スタイル適用
+ * - Chakra recipes が Tailwind base に勝つ → Chakra コンポーネント維持
+ * - Mantine が Tailwind base に勝つ → Mantine コンポーネント維持
+ */
+@layer reset, tokens, theme, base, recipes, mantine, components, utilities;
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+	--color-background: oklch(1 0 0);
+	--color-foreground: oklch(0.145 0.022 264.436);
+	--color-card: oklch(1 0 0);
+	--color-card-foreground: oklch(0.145 0.022 264.436);
+	--color-popover: oklch(1 0 0);
+	--color-popover-foreground: oklch(0.145 0.022 264.436);
+	--color-primary: oklch(0.488 0.243 264.376);
+	--color-primary-foreground: oklch(0.984 0.003 264.542);
+	--color-secondary: oklch(0.967 0.003 264.542);
+	--color-secondary-foreground: oklch(0.208 0.042 265.755);
+	--color-muted: oklch(0.967 0.003 264.542);
+	--color-muted-foreground: oklch(0.553 0.013 264.364);
+	--color-accent: oklch(0.967 0.003 264.542);
+	--color-accent-foreground: oklch(0.208 0.042 265.755);
+	--color-destructive: oklch(0.577 0.245 27.325);
+	--color-destructive-foreground: oklch(0.577 0.245 27.325);
+	--color-border: oklch(0.922 0.004 264.542);
+	--color-input: oklch(0.922 0.004 264.542);
+	--color-ring: oklch(0.488 0.243 264.376);
+	--radius-sm: 0.375rem;
+	--radius-md: 0.5rem;
+	--radius-lg: 0.625rem;
+	--radius-xl: 0.875rem;
+	--radius-2xl: 1.125rem;
+	--radius-3xl: 1.375rem;
+	--radius-4xl: 1.625rem;
+}
+
+@keyframes spin {
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+@layer base {
+	* {
+		@apply border-border outline-ring/50;
+	}
+	body {
+		@apply bg-background text-foreground;
+	}
+}
